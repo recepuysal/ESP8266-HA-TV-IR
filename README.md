@@ -1,4 +1,4 @@
-# esp8266-ha-tv-ir
+# ESP8266-HA-TV-IR
 
 Wemos D1 mini (ESP8266) ile TV acma/kapama — IR ogrenme, MQTT ve Home Assistant entegrasyonu.
 
